@@ -1,1 +1,1 @@
-** Simple Neural Network Built from Scratch with C++
+## Simple Neural Network Built from Scratch with C++
